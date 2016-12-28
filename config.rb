@@ -9,7 +9,7 @@ end
 activate :directory_indexes
 
 activate :dato,
-  token: '1787efad8c2b7d47c0218a6b6a035730281ea10c2d3a10f083',
+  token: '34efe0503b553b72c90d3f758b294b9258b774c9b1e1c1d471',
   base_url: 'https://datocms-middleman-example.netlify.com'
 
 set :url_root, 'https://datocms-middleman-example.netlify.com'
